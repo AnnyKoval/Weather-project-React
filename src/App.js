@@ -96,8 +96,10 @@ function App() {
           </div>
         </div>
         <div className="author">
-          <a href="https://github.com/AnnyKoval">Open-source code</a>, by{" "}
-          <a href="https://github.com/AnnyKoval">Anna Koval</a>
+          <a href="https://github.com/AnnyKoval/Weather-project-React">
+            Open-source code
+          </a>
+          , by <a href="https://github.com/AnnyKoval">Anna Koval</a>
         </div>
       </section>
     </div>
