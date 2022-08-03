@@ -55,7 +55,7 @@ function App() {
             <p>26ºC</p>
           </div>
           <div className="description-forecast-day">
-            <p>Thu</p>
+            <p>Fri</p>
             <img
               src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
               alt="Current weather icon"
@@ -65,7 +65,7 @@ function App() {
             <p>26ºC</p>
           </div>
           <div className="description-forecast-day">
-            <p>Thu</p>
+            <p>Sat</p>
             <img
               src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
               alt="Current weather icon"
@@ -75,7 +75,7 @@ function App() {
             <p>26ºC</p>
           </div>
           <div className="description-forecast-day">
-            <p>Thu</p>
+            <p>Sun</p>
             <img
               src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
               alt="Current weather icon"
@@ -85,7 +85,7 @@ function App() {
             <p>26ºC</p>
           </div>
           <div className="description-forecast-day">
-            <p>Thu</p>
+            <p>Mon</p>
             <img
               src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
               alt="Current weather icon"
